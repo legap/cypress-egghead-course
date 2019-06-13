@@ -1,5 +1,3 @@
-/// <reference types="Cypress" />
-
 context('Assertions', () => {
   beforeEach(() => {
     cy.visit('https://example.cypress.io/commands/assertions')
